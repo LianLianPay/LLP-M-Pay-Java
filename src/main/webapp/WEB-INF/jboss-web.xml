@@ -1,0 +1,3 @@
+<jboss-web>
+      <context-root>/webdemo</context-root>
+</jboss-web>
